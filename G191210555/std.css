@@ -1,0 +1,203 @@
+body {
+    background-image: url(https://setup34.com.tr/wp-content/uploads/2016/12/h8-video-background-img.jpg);
+    opacity: 0, 5;
+}
+
+.link {
+    background-image: url(https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?size=626&ext=jpg);
+    height: 100px;
+}
+
+.link ul {
+    list-style-type: none;
+    margin: px;
+    padding: px;
+    overflow: hidden;
+}
+
+.link li {
+    float: right;
+}
+
+.link li a {
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+
+.link li a:hover {
+    background-color: rgb(10, 9, 9);
+}
+
+.active {
+    background-color: rgb(38, 0, 255);
+}
+
+.myspr {
+    text-align: center;
+    background-color: gray;
+}
+
+.myspr img {
+    border-style: ridge;
+    width: 600px;
+    height: 400px;
+    border-color: yellow;
+}
+
+.myspr h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+.myspr p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: solid;
+    margin: 10px;
+    padding: 6px;
+    color: ivory;
+}
+
+.hobi {
+    text-align: center;
+    background-color: gray;
+}
+
+.hobi p {
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: solid;
+    padding: 6px;
+    margin: 10px;
+    color: ivory;
+}
+
+.hobi img {
+    border-style: solid;
+    border-color: yellow;
+}
+
+.hobi h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+.myself {
+    text-align: center;
+    background-color: gray;
+}
+
+.myself p {
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-style: solid;
+    padding: 5px;
+    margin: 10px;
+    color: wheat;
+}
+
+.myself img {
+    text-align: center;
+    border-style: solid;
+    border-color: yellow;
+}
+
+.myself h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+.blg {
+    text-align: center;
+    background-color: grey;
+}
+
+.blg img {
+    border-style: solid;
+    border-color: yellow
+}
+
+.blg p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    color: ivory;
+}
+
+.bg {
+    text-align: center;
+    background-color: grey;
+}
+
+.bg p {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: ivory;
+}
+
+.bg img {
+    border-style: solid;
+    border-color: yellow;
+}
+
+.linkler {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(8, 8, 8);
+}
+
+.bg h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: yellow;
+}
+
+.blg h1 {
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.tr{
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: wheat;
+}
+.nty{
+    text-align: center;
+    background-color: gray;
+    color: white;
+    text-decoration: underline;
+}
+
+.nty   h1{
+color: yellow;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.nty  p{
+
+    font-size: 30px;
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#button{
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+#button a:hover{
+    background-color: tomato;
+}
